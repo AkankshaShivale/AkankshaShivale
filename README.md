@@ -2,7 +2,7 @@
   <img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif" width="650" height="300" />
 </p>
 <h1 align="center" style="font-size: 30px; font-weight: 700; color: #4CAF50; font-family: 'Roboto', sans-serif; text-align: center;">
-  Hi, I’m Akanksha Shivale 👋
+  Hi, I’m Akanksha Kisan Shivale 👋
 </h1>
 
 ## 💫 About Me:
