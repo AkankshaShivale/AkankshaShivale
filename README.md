@@ -1,30 +1,62 @@
 <p align="center">
   <img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif" width="650" height="300" />
 </p>
+
 <h1 align="center" style="font-size: 30px; font-weight: 700; color: #4CAF50; font-family: 'Roboto', sans-serif; text-align: center;">
-  Hi, I’m Akanksha Kisan Shivale 👋
+  Hi, I'm Akanksha Kisan Shivale 👋
 </h1>
 
 ## 💫 About Me:
-🎓 **MSc Student in Industrial Mathematics with Computer Applications** at Savitribai Phule Pune University, Pune (2023-2025).  <br>📊 
-**Aspiring Data Analyst & Machine Learning Enthusiast** passionate about turning data into actionable insights.  <br>💡 Strong foundation in **Linear Algebra, Probability, Data Mining, and Statistical Analysis**.  <br>💻 Experienced in **Python, SQL, Power BI, Machine Learning, and Web Scraping**.  <br>🛠️ Skilled in **Exploratory Data Analysis (EDA), Feature Engineering, and Model Development**.  <br>🚀 Constantly learning and exploring new technologies to solve real-world problems.  <br><br>🔍 Currently seeking opportunities to apply my **analytical and technical skills** in solving real-world challenges!  
+🔹 **AI/ML Engineer Trainee** | Turning complex problems into intelligent solutions  
+🔹 **MSc in Industrial Mathematics with Computer Applications** @ Savitribai Phule Pune University (2023-2025)  
+🔹 **Data Science Enthusiast** with strong mathematical foundation in Linear Algebra, Probability, and Statistical Analysis  
+🔹 **Technical Skills:** Python, SQL, Power BI, Machine Learning, Data Mining, Web Scraping  
+🔹 **Analytical Skills:** EDA, Feature Engineering, Model Development, Data Visualization  
+🔹 Passionate about leveraging AI to create impactful, data-driven solutions  
 
+🌱 Currently sharpening my skills in **Deep Learning and Big Data technologies**  
+📫 Let's connect: [akankshashivale21@gmail.com](mailto:akankshashivale21@gmail.com)  
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akankshashivale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akankshashivale21@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akankshashivale) 
+[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akankshashivale21@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkankshaShivale)
 
 ## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+**Programming Languages**  
+![Python](https://img.shields.io/badge/Python-Expert-%233770A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C++](https://img.shields.io/badge/C++-Intermediate-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-Basic-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Data Science & ML**  
+![Pandas](https://img.shields.io/badge/Pandas-Expert-%23150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-Expert-%23013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Intermediate-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Data Visualization**  
+![Power BI](https://img.shields.io/badge/Power_BI-Intermediate-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Expert-%23ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+**Database & Tools**  
+![MySQL](https://img.shields.io/badge/MySQL-Intermediate-%234479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-Expert-%23121011?style=for-the-badge&logo=github&logoColor=white)
+
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AkankshaShivale&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AkankshaShivale&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkankshaShivale&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkankshaShivale&theme=merko&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkankshaShivale&theme=merko&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkankshaShivale&theme=merko&hide_border=true&layout=compact" width="45%" />
+</div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AkankshaShivale&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AkankshaShivale&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AkankshaShivale&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+## 🔝 Recent Contributions
+![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=AkankshaShivale&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=AkankshaShivale&icon=10&color=3)](https://visitcount.itsvg.in)
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=AkankshaShivale&label=Profile%20views&color=0e75b6&style=flat" alt="AkankshaShivale" /> 
+</p>
