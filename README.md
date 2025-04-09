@@ -1,10 +1,13 @@
 <p align="center">
-  <img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif" width="650" height="300" />
+  <img src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" height ="250" alt="Data Science Enthusiast" />
 </p>
 
-<h1 align="center" style="font-size: 30px; font-weight: 700; color: #4CAF50; font-family: 'Roboto', sans-serif; text-align: center;">
-  Hi, I'm Akanksha Kisan Shivale 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hello+World!+👋;I'm+Akanksha+Kisan+Shivale" alt="Typing SVG" />
 </h1>
+
+<h3 align="center">ML Engineer | Data Alchemist | Mathematical Mind</h3>
+
 
 ## 💫 About Me:
 🔹 **AI/ML Engineer Trainee** | Turning complex problems into intelligent solutions  
@@ -57,6 +60,3 @@
 ## 🔝 Recent Contributions
 ![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=AkankshaShivale&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=AkankshaShivale&label=Profile%20views&color=0e75b6&style=flat" alt="AkankshaShivale" /> 
-</p>
