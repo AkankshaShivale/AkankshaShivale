@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" height ="250" alt="Data Science Enthusiast" />
+  <img src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" height ="250" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hello+World!+👋;I'm+Akanksha+Kisan+Shivale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hello+World!+👋;I'm+Akanksha+Kisan+Shivale" />
 </h1>
 
 <h3 align="center">AI/ML Engineer Trainee | Data Alchemist | Mathematical Mind</h3>
