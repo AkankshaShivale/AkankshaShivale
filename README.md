@@ -6,45 +6,62 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71F779&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+Akanksha+Kisan+Shivale" />
 </h1>
 
-<h3 align="center">AI/ML Engineer Trainee</h3>
+<h3 align="center">AI/ML Engineer Trainee  </h3>
 
 ## About Me
 - AI/ML Engineer Trainee | Turning complex problems into intelligent solutions  
 - MSc in Industrial Mathematics with Computer Applications @ Savitribai Phule Pune University (2023-2025)  
 - Data Science Enthusiast with strong mathematical foundation in Linear Algebra, Probability, and Statistical Analysis  
 - Technical Skills: Python, MySQL, Power BI, Machine Learning, Deep Learning, DBMS, OOP, Django  
-- Analytical Skills: Data Cleaning, EDA, Feature Engineering, Model Training & Evaluation  
 - Passionate about leveraging AI to create impactful, data-driven solutions  
 
 Currently sharpening my skills in Deep Learning and Advanced ML Technologies  
 Reach out: [akankshashivale21@gmail.com](mailto:akankshashivale21@gmail.com)  
 
 ## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akankshashivale)  
-[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akankshashivale21@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkankshaShivale)
+<p align="center">
+  <a href="https://linkedin.com/in/akankshashivale">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:akankshashivale21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/AkankshaShivale">
+    <img src="https://img.shields.io/badge/GitHub-Follow-%23121011?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ## Tech Stack
 
-**Programming Languages**  
-![Python](https://img.shields.io/badge/Python-Expert-%233770A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+### Programming Languages  
+<p>
+  <img src="https://img.shields.io/badge/Python-Expert-%233770A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+</p>
 
-**Data Science & ML**  
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Intermediate-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-Intermediate-%2300BFFF?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Intermediate-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+### Data Science & ML  
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-Intermediate-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-Intermediate-%2300BFFF?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-Intermediate-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
 
-**Data Visualization & Tools**  
-![Power BI](https://img.shields.io/badge/Power_BI-Intermediate-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![MS Excel](https://img.shields.io/badge/MS_Excel-Intermediate-%231D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### Data Visualization & Tools  
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-Intermediate-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/MS_Excel-Intermediate-%231D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
-**Database & Web Development**  
-![MySQL](https://img.shields.io/badge/MySQL-Intermediate-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-Beginner-%23092E20?style=for-the-badge&logo=django&logoColor=white)
+### Database & Web Development  
+<p>
+  <img src="https://img.shields.io/badge/MySQL-Intermediate-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-Beginner-%23092E20?style=for-the-badge&logo=django&logoColor=white" />
+</p>
 
-**Version Control & IDEs**  
-![GitHub](https://img.shields.io/badge/GitHub-Expert-%23121011?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-Expert-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Version Control & IDEs  
+<p>
+  <img src="https://img.shields.io/badge/GitHub-Expert-%23121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-Expert-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ## GitHub Stats
 <div align="center">
