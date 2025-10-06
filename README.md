@@ -3,19 +3,18 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71F779&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+Akanksha+Kisan+Shivale" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71F779&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+Akanksha" />
 </h1>
 
-<h3 align="center">AI/ML Engineer Trainee  </h3>
+<h3 align="center">AI/ML Engineer Trainee </h3>
 
 ## About Me
-- AI/ML Engineer Trainee | Turning complex problems into intelligent solutions  
-- MSc in Industrial Mathematics with Computer Applications @ Savitribai Phule Pune University (2023-2025)  
-- Data Science Enthusiast with strong mathematical foundation in Linear Algebra, Probability, and Statistical Analysis  
-- Technical Skills: Python, MySQL, Power BI, Machine Learning, Deep Learning, DBMS, OOP, Django  
-- Passionate about leveraging AI to create impactful, data-driven solutions  
-
-Currently sharpening my skills in Deep Learning and Advanced ML Technologies  
+- AI/ML Engineer Trainee | Aspiring Data Scientist
+- **MSc in Industrial Mathematics with Computer Applications** @ **Savitribai Phule Pune University** (2023-2025) with **9.55 CGPA** and **Rank 1** in class.
+- Data Science Enthusiast with strong mathematical foundation in Linear Algebra, Statistical Inference
+- Technical Skills: Python, MySQL, NLP, Machine Learning, Deep Learning, DBMS, OOP
+  
+Currently sharpening my skills in Deep Learning, NLP and Advanced ML Technologies  
 Reach out: [akankshashivale21@gmail.com](mailto:akankshashivale21@gmail.com)  
 
 ## Socials
@@ -43,18 +42,13 @@ Reach out: [akankshashivale21@gmail.com](mailto:akankshashivale21@gmail.com)
   <img src="https://img.shields.io/badge/Scikit--Learn-Intermediate-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep_Learning-Intermediate-%2300BFFF?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine_Learning-Intermediate-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Natural_Language_Processing-Intermediate-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
-### Data Visualization & Tools  
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-Intermediate-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/MS_Excel-Intermediate-%231D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
 
-### Database & Web Development  
+### Database
 <p>
   <img src="https://img.shields.io/badge/MySQL-Intermediate-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-Beginner-%23092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 ### Version Control & IDEs  
