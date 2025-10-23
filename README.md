@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71F779&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+Akanksha" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71F779&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+Akanksha+Kisan+Shivale" />
 </h1>
 
 <h3 align="center">AI/ML Engineer Trainee </h3>
