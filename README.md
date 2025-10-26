@@ -67,8 +67,5 @@ Reach out: [akankshashivale21@gmail.com](mailto:akankshashivale21@gmail.com)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkankshaShivale&theme=merko&hide_border=true&layout=compact" width="45%" />
 </div>
 
-## GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AkankshaShivale&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
-
 ## Recent Contributions
 ![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=AkankshaShivale&limit=5&theme=dark&combine_all_yearly_contributions=true)
