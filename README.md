@@ -6,15 +6,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71F779&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+Akanksha+Kisan+Shivale" />
 </h1>
 
-<h3 align="center">AI/ML Engineer Trainee </h3>
+<h3 align="center"> GenAI Engineer Intern </h3>
 
 ## About Me
-- AI/ML Engineer Trainee | Aspiring Data Scientist
 - **MSc in Industrial Mathematics with Computer Applications** @ **Savitribai Phule Pune University** (2023-2025) with **9.55 CGPA** and **Rank 1** in class.
 - Data Science Enthusiast with strong mathematical foundation in Linear Algebra, Statistical Inference
-- Technical Skills: Python, MySQL, NLP, Machine Learning, Deep Learning, DBMS, OOP
+- Technical Skills: Python, MySQL, NLP, Machine Learning, Deep Learning, LangGraph, LangChain, LangFuse, DBMS, OOP
   
-Currently sharpening my skills in Deep Learning, NLP and Advanced ML Technologies  
+Currently sharpening my skills in LangGraph, LangChian and other tools to create complex multi agent systems  
 Reach out: [akankshashivale21@gmail.com](mailto:akankshashivale21@gmail.com)  
 
 ## Socials
