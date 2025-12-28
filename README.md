@@ -56,15 +56,5 @@ Reach out: [akankshashivale21@gmail.com](mailto:akankshashivale21@gmail.com)
   <img src="https://img.shields.io/badge/VS_Code-Expert-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkankshaShivale&theme=merko&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkankshaShivale&theme=merko&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkankshaShivale&theme=merko&hide_border=true&layout=compact" width="45%" />
-</div>
-
 ## Recent Contributions
 ![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=AkankshaShivale&limit=5&theme=dark&combine_all_yearly_contributions=true)
